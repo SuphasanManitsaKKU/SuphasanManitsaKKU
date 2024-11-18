@@ -30,5 +30,5 @@ I'm Suphasan from Khon Kaen University 🎓. A Backend dev with a deep curiosity
 
 - 📚 **_Studying_**
 
- - 🏗️ Microservices
- - 🛠️ Hexagonal Architecture
+  - 🏗️ Microservices
+  - 🛠️ Hexagonal Architecture
