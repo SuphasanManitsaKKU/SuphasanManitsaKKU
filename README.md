@@ -28,3 +28,7 @@ I'm Suphasan from Khon Kaen University 🎓. A Backend dev with a deep curiosity
   - ⛵ Kubernetes
   - ⛅ Azure Cloud Platform
 
+- 📚 **_Studying_**
+
+ - 🏗️ Microservices
+ - 🛠️ Hexagonal Architecture
