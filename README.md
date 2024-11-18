@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @SuphasanManitsaKKU
-- 👀 I’m interested in Pussy
-- 🌱 I’m currently learning neovim,git,nextjs
-- 💞️ I’m looking to collaborate on witchakorn
-- 📫 How to reach me in my room
-- 😄 Pronouns: Pussy
-- ⚡ Fun fact: haha
+⚡️ Hi, I’m Suphasan Manitsa from Computer Science KKU
 
-<!---
-SuphasanManitsaKKU/SuphasanManitsaKKU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Suphasan from Khon Kaen University 🎓. A Backend dev with a deep curiosity for the ins and outs of the Software Development Process 🛠️✨. Just out here leveling up my skills and looking for internship opportunities to grow even further 🚀🤝.
+
+## 📑 _Familiar with_
+
+- 🐹 **_Golang_**
+
+  - ⚡ Go Fiber
+  - 🛠️ GORM
+
+- 🌐 **_Javascript/Typescript_**
+
+  - ✨ Express
+  - ✨ NextJS
+  - 🌿 Prisma
+
+- 🗄️ **_Database_**
+
+  - 🐬 MySQL
+  - 🍃 MongoDB
+  - 🔥 Firestore
+
+- 🛠️ **_Others_**
+
+  - ⚡ gRPC | REST
+  - 🐳 Docker
+  - ⛵ Kubernetes
+  - ⛅ Azure Cloud Platform
+
