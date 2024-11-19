@@ -13,6 +13,7 @@ I'm Suphasan from Khon Kaen University 🎓. A Backend dev with a deep curiosity
 
   - ✨ Express
   - ✨ NextJS
+  - 📱 React Native
   - 🌿 Prisma
 
 - 🗄️ **_Database_**
