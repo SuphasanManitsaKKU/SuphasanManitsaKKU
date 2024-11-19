@@ -19,7 +19,7 @@ I'm Suphasan from Khon Kaen University 🎓. A Backend dev with a deep curiosity
 
   - 🐬 MySQL
   - 🍃 MongoDB
-  - 🔥 Firestore
+  - 🔥 Firebase
 
 - 🛠️ **_Others_**
 
