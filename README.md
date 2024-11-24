@@ -1,3 +1,5 @@
+INFP-T
+
 ⚡️ Hi, I’m Suphasan Manitsa from Computer Science KKU
 
 I'm Suphasan from Khon Kaen University 🎓. A Backend dev with a deep curiosity for the ins and outs of the Software Development Process 🛠️✨. Just out here leveling up my skills and looking for internship opportunities to grow even further 🚀🤝.
